@@ -1,0 +1,50 @@
+.explore-wrapper {
+  height: 100vh;
+  max-width: 700px;
+  width: 100vw;
+}
+
+.div-explore {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.origin-div {
+  display: flex;
+  justify-content: center;
+}
+
+.areas {
+  padding: 5px 30px;
+}
+
+.div-explore button {
+  background: #fd8061;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 1px 3px 6px rgba(110, 116, 134, 0.24);
+  color: white;
+  font-size: 16px;
+  height: 40px;
+  margin: 5px;
+  width: 700px;
+}
+
+.origin-cards {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  justify-content: space-evenly;
+  margin-left: 20px;
+  max-width: 90vw;
+  z-index: 10;
+}
+
+@media only screen and (max-width: 700px) {
+  .div-explore button {
+    width: 90vw;
+  }
+}

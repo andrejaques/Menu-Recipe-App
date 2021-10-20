@@ -1,0 +1,31 @@
+.profile-email {
+  font-size: 17px;
+  margin: 15px;
+  text-align: center;
+}
+
+.div-explore-profile {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 88vh;
+  overflow: hidden;
+}
+
+.div-explore-profile button {
+  background: #fd8061;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 1px 3px 6px rgba(110, 116, 134, 0.24);
+  color: white;
+  font-size: 16px;
+  height: 40px;
+  margin: 5px;
+  width: 700px;
+}
+
+@media only screen and (max-width: 700px) {
+  .div-explore-profile button {
+    width: 90vw;
+  }
+}

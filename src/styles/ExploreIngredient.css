@@ -1,0 +1,25 @@
+.div-ingredients-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding-bottom: 70px;
+  background-color: rgb(230, 230, 230);
+}
+
+.div-ingredient-card {
+  margin: 5px;
+  border: none;
+  padding-bottom: 30px;
+}
+
+.section-card {
+  border: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.explore-wrapper {
+  height: 100%;
+}

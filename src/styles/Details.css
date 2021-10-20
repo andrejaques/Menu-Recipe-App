@@ -1,0 +1,91 @@
+.details-wrapper {
+  overflow-x: hidden;
+  /* width: 100vw; */
+  padding-bottom: 30px;
+}
+
+.img-details {
+  width: 100%;
+}
+
+.favorite-btn {
+  background-color: transparent;
+  border: none;
+  width: 40px;
+  margin-left: 10px;
+}
+
+.heart-img {
+  width: 100%;
+}
+
+.recipe-name-detail {
+  text-align: center;
+  background-color: #fd8061;
+  color: #fff;
+  width: 100%;
+  margin-top: -5px;
+  padding: 10px;
+}
+
+.title-and-details {
+  display: flex;
+  justify-content: center;
+}
+
+.dish-details-category {
+  margin-left: 15px;
+}
+
+.share-btn {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.ingredients-checklist {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin-left: 30px;
+  line-height: 22px;
+}
+
+.instructions {
+  margin: 15px;
+  line-height: 22px;
+  text-align: justify;
+}
+
+.ingredients-required {
+  line-height: 22px;
+}
+
+.start-recipe-button {
+  position: fixed;
+  bottom: 0;
+  background: #fd8061;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 1px 3px 6px rgb(52, 54, 58);
+  color: white;
+  font-size: calc(5px + 1.7vmin);
+  font-weight: 700;
+  height: 30px;
+  width: 180px;
+}
+
+.suggestion__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.suggestion__card img {
+  border-radius: 50%;
+}
+
+iframe {
+  display: block;
+  margin: 15px auto;
+}
