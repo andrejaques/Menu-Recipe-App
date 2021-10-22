@@ -11,11 +11,11 @@ function Drinks(props) {
   const doze = 12;
   const { history } = props;
   const { search } = useSelector((state) => state.recipes);
-  const oneElementDetails = () => {
+  function oneElementDetails() {
     if (search.drinks.length === 1) {
       history.push(`/bebidas/${search.drinks[0].idDrink}`);
     }
-  };
+  }
 
   useEffect(() => {
     if (search.drinks === null) {
