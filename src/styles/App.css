@@ -16,6 +16,10 @@
 
 @import './Loading.css' ;
 
+html {
+  background-color: #E6E6E6;
+}
+
 .app {
   overflow-x: hidden;
   width: 100vw;
@@ -23,11 +27,6 @@
 
 #root {
   background-color: rgb(230, 230, 230);
-}
-
-body {
-  max-width: 700px;
-  margin: 0;
 }
 
 .meals {
@@ -131,12 +130,5 @@ body {
 
   100% {
     transform: rotate(-10deg);
-  }
-}
-
-@media only screen and (min-width: 700px) {
-  html {
-    display: flex;
-    justify-content: center;
   }
 }

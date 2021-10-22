@@ -1,7 +1,10 @@
 .explore-wrapper {
-  height: 100vh;
-  max-width: 700px;
-  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  overflow-x: hidden;
+  /* width: 100vw; */
+  padding-bottom: 30px;
 }
 
 .div-explore {

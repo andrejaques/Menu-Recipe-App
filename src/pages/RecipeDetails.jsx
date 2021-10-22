@@ -58,7 +58,7 @@ function RecipeDetails(props) {
       {
         recipe
           ? (
-            <div>
+            <div className="details-container">
               <button className="voltar1" type="button" onClick={ goToPreviousPath }>
                 <img className="voltar" src={ ArrowIcon } alt="voltar" />
               </button>
