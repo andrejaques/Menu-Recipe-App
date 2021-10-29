@@ -41,7 +41,7 @@ GIF 7
 
 ## Desenvolvimento :  :pencil:
 
-### O projeto foi realizado em duas sprints de 5 dias. Utilizamos o Trello para aplicar o método ágil Kanban para nos organizarmos e dividirmos as tasks e requisitos do projeto. O Front-end do nosso projeto foi desenvolvido em React, onde em uma negociação entre a equipe, achamos mais viável para esse caso utilizar o gerenciamento de estado com o Context API do próprio React, além de utilizar o Redux pontualmente para Autenticação e fizemos a estilização no CSS Puro.
+### O projeto foi realizado em duas sprints de 5 dias. Utilizamos o Trello para aplicar o método ágil Kanban para nos organizarmos e dividirmos as tasks e requisitos do projeto. O Front-end do nosso projeto foi desenvolvido em React, onde em uma negociação entre a equipe, achamos mais viável para esse caso utilizar o gerenciamento de estado com o Redux e Redux-thunk na camada mais externa e o Context API (do próprio React), nas camas mais internas. A estilização foi feita com CSS Puro.
 
 ---
 
@@ -64,7 +64,7 @@ GIF 7
 
 Você pode acessar um protótipo no link abaixo:
 
-https://www.figma.com/file/X358USUrdOM7wjSvpdh1GW/Untitled?node-id=0%3A1
+<aguardando>
 
 ---
 
@@ -76,7 +76,7 @@ Context API com React Hooks;
 
 React Hooks Customizados (useLocalStorage);
 
-Redux;
+Redux e Redux-thunk;
 
 ESLint;
 
@@ -107,19 +107,19 @@ Os end-points também são bastante ricos, você pode [vê-los aqui](https://www
 
 <a href="https://github.com/andrejaques">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/7872342?v=4" width="100px;" alt="foto_perfil"/>
- <br />
- <sub><b>André Jaques</b></sub></a> <a href="https://github.com/andrejaques">🚀</a>
- 
+ <br/>
+ <sub><b>André Jaques</b></sub></a> <a href="https://github.com/andrejaques">🚀</a> 
+ <br/> 
  <a href="https://github.com/flavioCoder1">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78191084?v=4" width="100px;" alt="foto_perfil"/>
  <br />
  <sub><b>Flavio Cordeiro</b></sub></a> <a href="https://github.com/flavioCoder1">🚀</a>
- 
+ <br/>
  <a href="https://github.com/GabrielTakaki">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82051093?v=4" width="100px;" alt="foto_perfil"/>
- <br />
+ <br/>
  <sub><b>Gabriel Takaki</b></sub></a> <a href="https://github.com/GabrielTakaki">🚀</a>
-
+<br/>
 
 Feito com :green_heart: por André Jaques , Flavio Cordeiro, Gabriel Takaki  
 
