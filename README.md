@@ -1,4 +1,4 @@
-# :zap:     Seja muito bem-vindo Projeto Menu Recipe App ! O App mais delicioso do GitHub!     :zap:
+# <p align=center> :zap:     Seja muito bem-vindo Projeto Menu Recipe App ! O App mais delicioso do GitHub!     :zap: </p>
 
 
 ---
@@ -119,6 +119,7 @@ Os end-points também são bastante ricos, você pode [vê-los aqui](https://www
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82051093?v=4" width="100px;" alt="foto_perfil"/>
  <br/>
  <sub><b>Gabriel Takaki</b></sub></a> <a href="https://github.com/GabrielTakaki">🚀</a>
+<br/>
 <br/>
 
 Feito com :green_heart: por André Jaques , Flavio Cordeiro, Gabriel Takaki  
