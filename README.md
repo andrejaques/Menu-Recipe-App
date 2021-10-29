@@ -108,15 +108,20 @@ Os end-points também são bastante ricos, você pode [vê-los aqui](https://www
 <a href="https://github.com/andrejaques">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/7872342?v=4" width="100px;" alt="foto_perfil"/>
  <br/>
+ <br/>
  <sub><b>André Jaques</b></sub></a> <a href="https://github.com/andrejaques">🚀</a> 
+ <br/> 
  <br/> 
  <a href="https://github.com/flavioCoder1">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78191084?v=4" width="100px;" alt="foto_perfil"/>
  <br />
+ <br />
  <sub><b>Flavio Cordeiro</b></sub></a> <a href="https://github.com/flavioCoder1">🚀</a>
+ <br/>
  <br/>
  <a href="https://github.com/GabrielTakaki">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82051093?v=4" width="100px;" alt="foto_perfil"/>
+ <br/>
  <br/>
  <sub><b>Gabriel Takaki</b></sub></a> <a href="https://github.com/GabrielTakaki">🚀</a>
 <br/>
