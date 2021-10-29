@@ -1,4 +1,4 @@
-# <p align=center> :zap:     Seja muito bem-vindo Projeto Menu Recipe App ! O App mais delicioso do GitHub!     :zap: </p>
+# <p align=center> :zap: Bem Vindo ao Projeto Menu Recipe App! :zap: <br> O App mais delicioso do GitHub! </p>
 
 
 ---
