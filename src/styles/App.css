@@ -26,6 +26,7 @@ html {
 }
 
 #root {
+  height: 100vh;
   background-color: rgb(230, 230, 230);
 }
 
@@ -45,6 +46,7 @@ html {
   background-color: rgba(255, 255, 255, 50%);
   height: 20px;
   position: fixed;
+  cursor: pointer;
 }
 
 .voltar1 {
@@ -52,6 +54,7 @@ html {
   border: none;
   height: 20px;
   position: fixed;
+  cursor: pointer;
 }
 
 .voltar2 {
@@ -60,6 +63,7 @@ html {
   height: 20px;
   margin-left: 10px;
   position: absolute;
+  cursor: pointer;
 }
 
 /* .food-cards {
