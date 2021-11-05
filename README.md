@@ -8,36 +8,56 @@
 #### É um MVP de um App de Receitas. Ele foi desenvolvido para ajudar restaurantes e bares em suas receitas e drinks. Nele são consumidas duas API's (uma para comidas e outra para bebidas). 
 
 ### Seguem as telas do aplicativo:
+<br/>
 
-#### Login com Mobile;
+### Login com Mobile:
+
+<br/>
 
 <img src="preview/01-mobileStart.gif">
 
-#### Percorrendo o app-mobile;
+<br/>
+
+### Percorrendo o app-mobile:
+
+<br/>
 
 <img src="preview/02-mobileThrough.gif">
 
-#### Login e percorrendo app Web;
+<br/>
+
+### Login e percorrendo app Web:
+
+<br/>
 
 <img src="preview/03-webStart.gif">
 
-#### Estruturação do Redux (escopo global) Stores, Reducers e Actions;
+<br/>
+
+### Estruturação do Redux (escopo global) Stores, Reducers e Actions:
+
+<br/>
 
 <img src="preview/reduxStore.gif">
 
-#### Gráfico do Redux;
+<br/>
+
+### Gráfico do Redux;
+
+<br/>
 
 <img src="preview/reduxChart.gif">
 
-#### Estruturação dos Providers e ContextAPI (escopo de components);
+<br/>
+
+### Estruturação dos Providers e ContextAPI (escopo de components):
+
+<br/>
 
 <img src="preview/contextAndProviders.gif">
 
-#### Tela de explorar comidas;
-
-GIF 7
-
----
+<br/>
+<br/>
 
 ## Desenvolvimento :  :pencil:
 
@@ -132,8 +152,8 @@ Os end-points também são bastante ricos, você pode [vê-los aqui](https://www
  <sub><b>Gabriel Takaki</b></sub></a> <a href="https://github.com/GabrielTakaki">
     🚀
 </a>
-  <br/>
-  <br/>
+<br/>
+<br/>
 
 Feito com :green_heart: por André Jaques , Flavio Cordeiro, Gabriel Takaki  
 
