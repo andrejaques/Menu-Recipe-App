@@ -11,7 +11,7 @@
 
 #### Login com Mobile;
 
-<img src="preview/01-mobileStart.mp4">
+![mobileStart](./preview/01-mobileStart.mp4)
 
 #### Tela de receitas;
 
