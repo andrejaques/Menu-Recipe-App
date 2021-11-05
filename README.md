@@ -7,7 +7,10 @@
 
 #### É um MVP de um App de Receitas. Ele foi desenvolvido para ajudar restaurantes e bares em suas receitas e drinks. Nele são consumidas duas API's (uma para comidas e outra para bebidas). 
 
+<br/>
+
 ### Seguem as telas do aplicativo:
+
 <br/>
 
 ### Login com Mobile:
