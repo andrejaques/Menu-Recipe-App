@@ -11,27 +11,27 @@
 
 #### Login com Mobile;
 
-![mobileStart](./preview/01-mobileStart.mp4)
+<img src="preview/01-mobileStart.gif">
 
-#### Tela de receitas;
+#### Percorrendo o app-mobile;
 
-GIF 2
+<img src="preview/02-mobileThrough.gif">
 
-#### Tela de detalhes da receita;
+#### Login e percorrendo app Web;
 
-GIF 3
+<img src="preview/03-webStart.gif">
 
-#### Tela de receitas favoritas;
+#### Estruturação do Redux (escopo global) Stores, Reducers e Actions;
 
-GIF 4
+<img src="preview/reduxStore.gif">
 
-#### Tela de receitas feitas;
+#### Gráfico do Redux;
 
-GIF 5
+<img src="preview/reduxChart.gif">
 
-#### Tela de perfil;
+#### Estruturação dos Providers e ContextAPI (escopo de components);
 
-GIF 6
+<img src="preview/contextAndProviders.gif">
 
 #### Tela de explorar comidas;
 
