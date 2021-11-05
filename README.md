@@ -9,9 +9,9 @@
 
 ### Seguem as telas do aplicativo:
 
-#### Tela de login;
+#### Login com Mobile;
 
-GIF 1
+<img src="preview/01-mobileStart.mp4">
 
 #### Tela de receitas;
 
@@ -64,7 +64,7 @@ GIF 7
 
 Você pode acessar um protótipo no link abaixo:
 
-<aguardando>
+em deploy
 
 ---
 
@@ -109,23 +109,31 @@ Os end-points também são bastante ricos, você pode [vê-los aqui](https://www
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/7872342?v=4" width="100px;" alt="foto_perfil"/>
  <br/>
  <br/>
- <sub><b>André Jaques</b></sub></a> <a href="https://github.com/andrejaques">🚀</a> 
+ <sub><b>André Jaques</b></sub></a> <a href="https://github.com/andrejaques">
+ 🚀
+</a> 
+
  <br/> 
  <br/> 
  <a href="https://github.com/flavioCoder1">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78191084?v=4" width="100px;" alt="foto_perfil"/>
  <br />
  <br />
- <sub><b>Flavio Cordeiro</b></sub></a> <a href="https://github.com/flavioCoder1">🚀</a>
+ <sub><b>Flavio Cordeiro</b></sub></a> <a href="https://github.com/flavioCoder1">
+ 🚀
+</a>
+
  <br/>
  <br/>
  <a href="https://github.com/GabrielTakaki">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82051093?v=4" width="100px;" alt="foto_perfil"/>
  <br/>
  <br/>
- <sub><b>Gabriel Takaki</b></sub></a> <a href="https://github.com/GabrielTakaki">🚀</a>
-<br/>
-<br/>
+ <sub><b>Gabriel Takaki</b></sub></a> <a href="https://github.com/GabrielTakaki">
+    🚀
+</a>
+  <br/>
+  <br/>
 
 Feito com :green_heart: por André Jaques , Flavio Cordeiro, Gabriel Takaki  
 
